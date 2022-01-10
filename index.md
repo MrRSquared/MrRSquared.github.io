@@ -7,7 +7,8 @@
 #
 layout: home
 ---
-Welcome to our Little Corner of the Internet
+## Welcome to our Little Corner of the Internet
+
 The Oscats are excited that the Open Alliance is open to all teams, and we thank those who posted in previous years. We are a small team from Hillsboro, NH. Our motto is everyone is welcome, and everyone has something to offer. We are excited to join the Open Alliance this year as most of what we know about building robots, we learned from veteran teams, mentors who ran with FIRST in the "good ol' days", message boards, and at events. We are excited to be able to give back.
 
 We currently have about 7 members, and our dedicated space is a closet in our cafeteria. We have some incredibly generous sponsors who have provided us funding to help make and buy a mobile pit setup. We hope to share how we are trying to make things work with limited resources (and learn how to do so in the process:).
