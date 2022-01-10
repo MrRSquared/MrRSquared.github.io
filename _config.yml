@@ -32,7 +32,7 @@ minima:
  # generate social links in footer
   social_links:
     github: "Oscats"
-    [TBA](https://thebluealliance.com): "Oscats"
+    The Blue Alliance: "Oscats"
 
 kramdown:
   math_engine: katex
