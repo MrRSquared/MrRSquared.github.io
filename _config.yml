@@ -1,10 +1,13 @@
 title: "Oscats 2022 Build Blog"
-author: "Oscat Students and Mentors"
+author: 
+  name: "Oscat Students and Mentors"
+  email: email: "frc6762@gmail.com"
 description: "Building machines from the ground up together." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
+show_excerpts: false # set to true to show excerpts on the homepage
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "frc6762@gmail.com"
+
 #twitter_username: "twitteruser"
 github_username: "Oscats"
 #linkedin_username: "linkedinuser"
@@ -18,13 +21,18 @@ TheBlueAlliance_username: "Oscats"
 
 
 #############################################################################################################
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
   
-  rss: rss
+ # generate social links in footer
+  social_links:
+    github: "Oscats"
+    TheBlueAlliance_username: "Oscats"
 
 kramdown:
   math_engine: katex
