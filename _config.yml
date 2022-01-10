@@ -1,15 +1,30 @@
-title: Trimming Circles
-author:
-  name: Leoveanu Claudiu
-  email: c.leov@icloud.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  A home for raw ideas and scribbles that I find myself chewing over a lot anyway.
+title: "Oscats 2022 Build Blog"
+author: "Oscat Students and Mentors"
+description: "Building machines from the ground up together." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "frc6762@gmail.com"
+#twitter_username: "twitteruser"
+github_username: "Oscats"
+#linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
+TheBlueAlliance_username: "Oscats"
+
+
+#############################################################################################################
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
+  
+  rss: rss
 
 kramdown:
   math_engine: katex
