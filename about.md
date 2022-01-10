@@ -11,26 +11,20 @@ img {
   margin-right:15px;
 }
 </style>
-<img src="/assets/avatar.png" alt="Avatar" style="width:200px">
 
-Hi! My name is Claudiu Leoveanu. I am currently pursuing a career in applied science, dabbling sporadically in various other things now and again. I was fortunate enough to discover science at an early age, and that had my juvenile curiosity yearn after the joy and strive of unwrapping the world through keen observation.
+Welcome to our Little Corner of the Internet
+The Oscats are excited that the Open Alliance is open to all teams, and we thank those who posted in previous years. We are a small team from Hillsboro, NH. Our motto is everyone is welcome, and everyone has something to offer. We are excited to join the Open Alliance this year as most of what we know about building robots, we learned from veteran teams, mentors who ran with FIRST in the "good ol' days", message boards, and at events. We are excited to be able to give back.
 
-<br> Shoot me a line at any of the links below if you feel like it.
+We currently have about 7 members, and our dedicated space is a closet in our cafeteria. We have some incredibly generous sponsors who have provided us funding to help make and buy a mobile pit setup. We hope to share how we are trying to make things work with limited resources (and learn how to do so in the process:).
 
-<body>
-<a href="https://www.goodreads.com/user/show/90047214-claudiu-leoveanu">
-<img src="/assets/goodreads.png" width="45" height="45">
-</a>
-<a href="https://www.linkedin.com/in/cleov/">
-<img src="/assets/linkedin.png" width="45" height="45">
-</a>
-<a href="https://twitter.com/cdleov">
-<img src="/assets/twitter.png" width="45" height="45">
-</a>
-<a href="https://open.spotify.com/user/i6iljufwad8zsg7pbyyrekc9a">
-<img src="/assets/spotify.png" width="45" height="45">
-</a>
-<a href="https://bandcamp.com/findx">
-<img src="/assets/bandcamp.png" width="45" height="45">
-</a>
-</body>
+A big portion of the off-season, we spent trying to make use of our space. We build and practice in the Cafeteria and classrooms. Everything must be stowed each night. We have traditionally been a Python team, but we saw the extended off-season due to COVID as an excellent opportunity to learn Java. We are currently planning on using Java this upcoming season.
+
+During the off-season, we began creating mobile solutions for all of our building needs so we can make the most of our build season. We have a few more things to finish but are excited about the progress we made.
+
+Our goal is to create a competitive robot this season. We will get more specific when we see what the game has to bring.
+
+We will post our updates weekly in this blog and on our Chief Delphi Thread.
+
+Thank you everyone for all the knowledge you have lent us. We hope to give a bit back this season and as we go forward.
+
+Wishing you all an incredible season. ~Oscats
