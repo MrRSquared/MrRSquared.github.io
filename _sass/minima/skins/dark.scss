@@ -1,13 +1,13 @@
 @charset "utf-8";
 
-$brand-color:           #999999 !default;
+$brand-color:           #FFFFFF !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
 
 $site-title-color:      $brand-color-light !default;
 
 $text-color:            #FFFFFF !default;
-$background-color:      #2596be !default;
+$background-color:      #9c1d14 !default;
 $code-background-color: #212121 !default;
 
 $link-base-color:       #FFFFFF !default;
