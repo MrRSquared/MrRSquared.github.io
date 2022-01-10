@@ -31,7 +31,7 @@ minima:
   
  # generate social links in footer
   social_links:
-    github: "Oscats"
+    #github: "Oscats"
     #TheBlueAlliance_username: "Oscats"
 
 kramdown:
