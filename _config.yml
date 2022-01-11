@@ -14,12 +14,13 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
-  rss: rss
+  
   
  # generate social links in footer
   social_links:
     github: "Oscats"
     The Blue Alliance: "Oscats"
+    rss: rss
 
 kramdown:
   math_engine: katex
