@@ -9,9 +9,13 @@ img {
   float: left;
   border-radius: 50%;
   margin-right:15px;
+
 }
+
 </style>
 
+
+![OscatsLogo](https://user-images.githubusercontent.com/25676667/148859303-86a92314-a60e-4ee9-a7a3-0b983f76fd55.png)
 Welcome to our Little Corner of the Internet
 The Oscats are excited that the Open Alliance is open to all teams, and we thank those who posted in previous years. We are a small team from Hillsboro, NH. Our motto is everyone is welcome, and everyone has something to offer. We are excited to join the Open Alliance this year as most of what we know about building robots, we learned from veteran teams, mentors who ran with FIRST in the "good ol' days", message boards, and at events. We are excited to be able to give back.
 
