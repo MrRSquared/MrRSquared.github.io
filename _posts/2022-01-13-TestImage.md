@@ -16,7 +16,6 @@ katex: True
 }
 </style>
 I am wondering if the image shows.
-![image4](https://user-images.githubusercontent.com/25676667/148878177-f056e2ef-3628-47d5-ac41-b241fc9be8ab.jpg)
 
 
 
